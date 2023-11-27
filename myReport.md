@@ -7,5 +7,6 @@ First:
 4. Checkout the new repo
 5. create new ssh in your terminal using ssh-keygen
 6. then add the generated ssh to your github account
-7. 
+7. Now, Follow the steps in the INSTALL.md
+8. To apply demo, follow the steps in demo/README.md
 
