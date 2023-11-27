@@ -48,8 +48,10 @@ python setup.py build_ext install
 # install apex
 cd $INSTALL_DIR
 git clone https://github.com/NVIDIA/apex.git
+git checkout e3794f422628d453b036f69de476bf16a0a838ac
+[why this commit, please check https://github.com/Scalsol/mega.pytorch/issues/117]
 cd apex
-python setup.py install --cuda_ext --cpp_ext
+python setup.py build_ext install
 
 # install PyTorch Detection
 cd $INSTALL_DIR
