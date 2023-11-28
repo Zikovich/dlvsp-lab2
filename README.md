@@ -1,3 +1,8 @@
+# Before we start
+1. in myReport.md you can find the description of how to create git repo
+2. By Follow the installation steps (after my edit), you can now fully run the demo smoothly,
+3. Follow the steps in the demo/README.md to excute the demo
+
 # MEGA for Video Object Detection
 
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
